@@ -54,4 +54,3 @@ while True:
             
     if sair == 1:
         break
-print('----------------------------Programa Finalizado-------------------------------')
