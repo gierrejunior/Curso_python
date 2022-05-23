@@ -58,4 +58,3 @@ b = (5, 8, 1, 2)
 # del(pessoa[0]) # da erro, pq não pode deletar só um elemento da tupla
 # del(pessoa) # Apaga a tupla
 # print(pessoa)
-
