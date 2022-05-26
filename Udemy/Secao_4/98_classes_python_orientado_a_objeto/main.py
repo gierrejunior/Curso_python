@@ -32,10 +32,18 @@ from pessoa import Pessoa
 # p1.parar_falar()
 # p1.parar_falar()
 
-p1 = Pessoa('Gierre', 28)
-p2 = Pessoa('Luiz', 29)
+# p1 = Pessoa('Gierre', 28)
+# p2 = Pessoa('Luiz', 29)
 
-print(Pessoa.ano_atual)
+# print(Pessoa.ano_atual)
 
-print(p1.get_ano_nascimento())
-print(p2.get_ano_nascimento())
+# print(p1.get_ano_nascimento())
+# print(p2.get_ano_nascimento())
+
+#!--------------------------------------------------------------------------------------------------------------------------------
+from computador import Computador
+
+computador1 = Computador('Asus', '16gb', 'Nvidia')
+computador1.Ligar()
+computador1.Desligar()
+computador1.ExibirInformacoesDesteComputador()

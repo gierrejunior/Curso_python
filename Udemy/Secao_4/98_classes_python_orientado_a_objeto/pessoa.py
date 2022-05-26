@@ -67,5 +67,4 @@ class Pessoa:
 
     def get_ano_nascimento(self):
         ano_nascimento = self.ano_atual - self.idade
-        
         return ano_nascimento
